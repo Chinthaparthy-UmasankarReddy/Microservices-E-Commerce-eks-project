@@ -2,6 +2,7 @@
 
 microservicePipeline(
     gitRepo: "Microservices-E-Commerce-eks-project",
+    gitBranch: "stage"
     gitUser: "Chinthaparthy-UmasankarReddy",
     serviceName: "adservice",
     ecrRepoUrl: "154290454465.dkr.ecr.us-east-1.amazonaws.com/adservice",
